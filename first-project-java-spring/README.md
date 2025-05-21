@@ -18,7 +18,7 @@ This project is a simple Spring Boot MVC application created for the Java Labs c
 
 ## 📸 Screenshots
 ### home OPRATION
-![OPRATION Screenshot]  ![myhomepage](https://github.com/user-attachments/assets/8c3c8825-794d-4436-b61a-b22bf2ee3ba5)
+![OPRATION Screenshot] ![Screenshot 2025-05-21 153541](https://github.com/user-attachments/assets/642edc25-e530-43c6-b16d-fcdd1b2aa30b)
 
 
 
